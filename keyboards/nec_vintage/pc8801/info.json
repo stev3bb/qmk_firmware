@@ -1,0 +1,13 @@
+{
+    "manufacturer": "steve",
+    "keyboard_name": "pc8801",
+    "maintainer": "stev3bb",
+    "bootloader": "stm32-dfu",
+    "processor": "STM32F401",
+    "url": "",
+    "usb": {
+        "device_version": "1.0.0",
+        "pid": "0x2726",
+        "vid": "0x2FB2"
+    }
+}
